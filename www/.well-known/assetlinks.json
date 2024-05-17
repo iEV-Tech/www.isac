@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "vn.infipower.isac",
+            "sha256_cert_fingerprints": [
+                "DA:63:1B:37:FB:01:E8:47:36:B9:F2:C2:32:59:02:33:4D:1C:42:6E:33:33:0F:BB:64:0B:60:02:5D:16:02:0F"
+            ]
+        }
+    }
+]
