@@ -25,6 +25,7 @@ OTHER DEALINGS IN THE SOFTWARE.
 For more information, please refer to <https://unlicense.org>
 
 # clone source build
+$ cd /var
 $ git clone https://github.com/iEV-Tech/www.isac.git
 
 # copy config to nginx
