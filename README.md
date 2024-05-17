@@ -31,6 +31,7 @@ $ git clone https://github.com/iEV-Tech/www.isac.git
 # copy config to nginx
 $ cp /var/www.isac/nginx/app.isac.vn.conf /etc/nginx/conf.d/
 $ cp /var/www.isac/nginx/app.isac.com.vn.conf /etc/nginx/conf.d/
+$ cp /var/www.isac/nginx/apptest.isac.vn.conf /etc/nginx/conf.d/
 
 # create ssl R3
-$ sudo certbot --nginx -d app.isac.vn
+$ sudo certbot --nginx -d app.isac.vn -d apptest.isac.vn

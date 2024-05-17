@@ -124,5 +124,10 @@
 	"BillCompanyTax": "Mã số thuế",
 	"BillCompanyMail": "Mail cá nhân",
 	"NoGetBill": "Không lấy hóa đơn",
-	"YesGetBill": "Yêu cầu xuất hóa đơn"
+	"YesGetBill": "Yêu cầu xuất hóa đơn",
+	"ExchangeValue": "Số tiền còn dư",
+	"RefundValue": "Giá trị tiền hoàn",
+	"Refund": "Hoàn tiền",
+	"RefundYes": "Đã hoàn tiền",
+	"RefundStatus": "Trạng thái hoàn tiền"
 }
