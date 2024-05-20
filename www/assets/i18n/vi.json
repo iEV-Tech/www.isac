@@ -125,9 +125,11 @@
 	"BillCompanyMail": "Mail cá nhân",
 	"NoGetBill": "Không lấy hóa đơn",
 	"YesGetBill": "Yêu cầu xuất hóa đơn",
+	"Exchange": "Số dư",
 	"ExchangeValue": "Số tiền còn dư",
 	"RefundValue": "Giá trị tiền hoàn",
 	"Refund": "Hoàn tiền",
 	"RefundYes": "Đã hoàn tiền",
-	"RefundStatus": "Trạng thái hoàn tiền"
+	"RefundStatus": "Trạng thái hoàn tiền",
+	"ChangingLocation": "Trạm sạc"
 }
