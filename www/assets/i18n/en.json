@@ -102,6 +102,7 @@
   "UserInfo": "User information",
   "Vehicle": "Vehicle",
   "ViewBill": "Bill info",
+  "ViewOrder": "Order info",
   "Wallet": "Wallet",
   "Yesterday": "Yesterday",
   "Biometrics": "Biometrics",
@@ -148,5 +149,6 @@
   "CurrentLocation": "Current location",
   "Nearby": "Nearby",
   "ChargingStation": "Station",
-	"Home": "Home"
+  "Home": "Home",
+  "FAQ": "FAQ"
 }

@@ -102,6 +102,7 @@
 	"UserInfo": "Thông tin tài khoản",
 	"Vehicle": "Phương tiện",
 	"ViewBill": "Xem hóa đơn",
+	"ViewOrder": "Xem đơn hàng",
 	"Wallet": "Ví",
 	"Yesterday": "Hôm qua",
 	"Biometrics": "Sinh trắc học",
@@ -149,5 +150,6 @@
 	"ConnectorReady": "đầu sạc sẵn sàng",
 	"Nearby": "Gần đây",
 	"ChargingStation": "Trạm sạc",
-	"Home": "Trang chủ"
+	"Home": "Trang chủ",
+	"FAQ": "Câu hỏi thường gặp"
 }
