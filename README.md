@@ -24,9 +24,16 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 For more information, please refer to <https://unlicense.org>
 
+# install nginx + certbot (ubuntu)
+$ sudo apt install nginx certbot python3-certbot-nginx -y
+
 # clone source build
 $ cd /var
 $ git clone https://github.com/iEV-Tech/www.isac.git
+
+# pull update
+$ cd /var/www.isac
+$ git pull
 
 # copy config to nginx
 $ cp /var/www.isac/nginx/app.isac.vn.conf /etc/nginx/conf.d/
