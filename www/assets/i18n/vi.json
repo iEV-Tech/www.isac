@@ -60,7 +60,8 @@
 	"CompanyFullName": "INFIPOWER JOINT STOCK COMPANY",
 	"CompanyMobile": "+84903704888",
 	"CompanyName": "INFIPOWER",
-	"Complete": "Hoàn tất",
+	"Complete": "Hoàn thành",
+	"Completed": "Hoàn tất",
 	"Confirm": "Xác nhận",
 	"ConfirmOTP": "Xác nhận mã OTP",
 	"ConnectWithUs": "Kết nối với chúng tôi",
@@ -249,5 +250,7 @@
 	"Yesterday": "Hôm qua",
 	"You": "Bạn",
 	"YourExperienceWithApp": "Trải nghiệm của bạn về ứng dụng trạm sạc như thế nào?",
-	"YourWay": "Cách bạn"
+	"YourWay": "Cách bạn",
+	"BillVAT": "Hóa đơn VAT",
+	"Unit": "ĐVT"
 }

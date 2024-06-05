@@ -61,6 +61,7 @@
 	"CompanyMobile": "+84903704888",
 	"CompanyName": "INFIPOWER",
 	"Complete": "Complete",
+	"Completed": "Completed",
 	"Confirm": "Confirm",
 	"ConfirmOTP": "Confirm OTP code",
 	"ConnectWithUs": "Connect with us",
@@ -249,5 +250,7 @@
 	"Yesterday": "Yesterday",
 	"You": "You",
 	"YourExperienceWithApp": "How was your experience with the charging station app?",
-	"YourWay": "Distance"
+	"YourWay": "Distance",
+	"BillVAT": "VAT bill",
+	"Unit": "Unit"
 }

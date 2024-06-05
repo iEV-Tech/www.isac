@@ -140,6 +140,11 @@
                 map.setZoom(zoom ?? 15);
             }
 
+            //animationFocusCamera(pos: { lat: number, lng: number })
+            var animationFocusCamera = function (pos) {
+                map.panTo(new vbd.LatLng(pos.lat, pos.lng));
+            }
+
             var _parentWindow = null,
                 _postMessage = function (message, data) {
                     _parentWindow.postMessage({
@@ -159,22 +164,27 @@
                 switch (message) {
                     case "createMap": {
                         map = createMap(data.pos, data.zoom);
-                        _postMessage("receive-createMap", { data: "Tạo bản đồ rồi nhé anh ơi" });
+                        _postMessage("receive-createMap", { data: "Bản đồ đã được khởi tạo" });
                         break;
                     }
                     case "createCurrentPosition": {
                         createCurrentPosition(data.pos, data.icon);
-                        _postMessage("receive-createCurrentPosition", { data: "Anh ở đâu ngồi yêu ở đấy đi" });
+                        _postMessage("receive-createCurrentPosition", { data: "Vị trí của bạn đã được đánh dấu" });
                         break;
                     }
                     case "createMarkers": {
                         createMarkers(data);
-                        _postMessage("receive-createMarkers", { data: "Tạo cho anh 1 đống điểm đánh dấu rồi, chờ ai đó bấm vào đi" });
+                        _postMessage("receive-createMarkers", { data: "Đã đánh dấu xong 1 đống địa điểm trên bản đồ" });
                         break;
                     }
                     case "resetCamera": {
                         resetCamera(data.pos, data.zoom);
-                        _postMessage("receive-resetCamera", { data: "Chỉnh góc quay rồi nha" });
+                        _postMessage("receive-resetCamera", { data: "Chỉnh góc quay về phía trung tâm" });
+                        break;
+                    }
+                    case "animationFocusCamera": {
+                        animationFocusCamera(data.pos);
+                        _postMessage("receive-animationFocusCamera", { data: "Di chuyển ống kính vào đây" });
                         break;
                     }
                 }
