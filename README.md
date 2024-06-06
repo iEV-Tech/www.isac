@@ -29,7 +29,8 @@ $ sudo apt install nginx certbot python3-certbot-nginx -y
 
 # clone source build
 $ cd /var
-$ git clone https://github.com/iEV-Tech/www.isac.git
+$ git clone https://github.com/iEV-Tech/www.isac.git www.isac
+$ git clone https://github.com/iEV-Tech/www.isac.git www.isac.test
 
 # pull update
 $ cd /var/www.isac
