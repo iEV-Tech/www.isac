@@ -145,6 +145,7 @@
 	"ModelName": "Model",
 	"More": "More",
 	"Nearby": "Nearby",
+	"StationNearby": "Charging point near you",
 	"NewFeedback": "New feedback",
 	"NewVehicle": "Add new vehicle",
 	"NoChargingSession": "No charging session!",
@@ -252,5 +253,7 @@
 	"YourExperienceWithApp": "How was your experience with the charging station app?",
 	"YourWay": "Distance",
 	"BillVAT": "VAT bill",
-	"Unit": "Unit"
+	"Unit": "Unit",
+	"Share": "Share",
+	"OpenMap": "Open map"
 }

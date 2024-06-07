@@ -145,6 +145,7 @@
 	"ModelName": "Mẫu xe",
 	"More": "Xem thêm",
 	"Nearby": "Gần đây",
+	"StationNearby": "Điểm sạc gần bạn",
 	"NewFeedback": "Phản hồi mới",
 	"NewVehicle": "Thêm xe mới",
 	"NoChargingSession": "Chưa có thông tin các phiên sạc!",
@@ -252,5 +253,7 @@
 	"YourExperienceWithApp": "Trải nghiệm của bạn về ứng dụng trạm sạc như thế nào?",
 	"YourWay": "Cách bạn",
 	"BillVAT": "Hóa đơn VAT",
-	"Unit": "ĐVT"
+	"Unit": "ĐVT",
+	"Share": "Chia sẻ",
+	"OpenMap": "Mở bản đồ"
 }
