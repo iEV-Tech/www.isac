@@ -34,6 +34,7 @@
 	"ChargeDevice": "Charge the device",
 	"ChargeSpeed": "Charge speed",
 	"ChargedPower": "Charged power",
+	"ChargedPowerOnPackage": "Charged power/package",
 	"ChargedTime": "Charging time",
 	"Charger": "Charger",
 	"ChargerConnect": "Connect",
@@ -255,5 +256,6 @@
 	"BillVAT": "VAT bill",
 	"Unit": "Unit",
 	"Share": "Share",
-	"OpenMap": "Open map"
+	"OpenMap": "Open map",
+	"VehicleBattery": "vehicle battery"
 }

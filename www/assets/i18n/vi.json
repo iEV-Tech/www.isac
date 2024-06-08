@@ -34,6 +34,7 @@
 	"ChargeDevice": "Sạc thiết bị",
 	"ChargeSpeed": "Tốc độ sạc",
 	"ChargedPower": "Điện năng đã sạc",
+	"ChargedPowerOnPackage": "Điện năng đã sạc/gói sạc",
 	"ChargedTime": "Thời gian đã sạc",
 	"Charger": "Phiên sạc",
 	"ChargerConnect": "Kết nối sạc",
@@ -255,5 +256,6 @@
 	"BillVAT": "Hóa đơn VAT",
 	"Unit": "ĐVT",
 	"Share": "Chia sẻ",
-	"OpenMap": "Mở bản đồ"
+	"OpenMap": "Mở bản đồ",
+	"VehicleBattery": "pin xe"
 }
