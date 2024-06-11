@@ -18,7 +18,7 @@
 	"BeingUsed": "Đang được sử dụng",
 	"Bill": "Hóa đơn",
 	"BillCode": "Mã hóa đơn",
-	"BillCompanyAddress": "Địa chỉ công ty",
+	"BillCompanyAddress": "Địa chỉ",
 	"BillCompanyMail": "Mail cá nhân",
 	"BillCompanyName": "Tên công ty",
 	"BillCompanyTax": "Mã số thuế",
@@ -186,7 +186,7 @@
 	"ReadyCharge": "Sẵn sàng sạc",
 	"Refund": "Hoàn tiền",
 	"RefundStatus": "Trạng thái hoàn tiền",
-	"RefundValue": "Giá trị tiền hoàn",
+	"RefundValue": "Số tiền hoàn lại",
 	"RefundYes": "Đã hoàn tiền",
 	"Regulations": "Quy định",
 	"Reply": "Trả lời",
@@ -257,5 +257,9 @@
 	"Unit": "ĐVT",
 	"Share": "Chia sẻ",
 	"OpenMap": "Mở bản đồ",
-	"VehicleBattery": "pin xe"
+	"VehicleBattery": "pin xe",
+	"OrderValue": "Giá trị đơn hàng",
+	"PayValue": "Số tiền thanh toán",
+	"UsedMoneyValue": "Số tiền sử dụng",
+	"UsedElectricValue": "Số kWh đã sạc"
 }

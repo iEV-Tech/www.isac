@@ -18,7 +18,7 @@
 	"BeingUsed": "Being used",
 	"Bill": "Bill",
 	"BillCode": "Bill code",
-	"BillCompanyAddress": "Company address",
+	"BillCompanyAddress": "Address",
 	"BillCompanyMail": "Email",
 	"BillCompanyName": "Company name",
 	"BillCompanyTax": "Tax",
@@ -257,5 +257,9 @@
 	"Unit": "Unit",
 	"Share": "Share",
 	"OpenMap": "Open map",
-	"VehicleBattery": "vehicle battery"
+	"VehicleBattery": "vehicle battery",
+	"OrderValue": "Value",
+	"PayValue": "Pay",
+	"UsedMoneyValue": "Used",
+	"UsedElectricValue": "Electric used"
 }
