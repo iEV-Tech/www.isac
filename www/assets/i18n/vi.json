@@ -146,7 +146,7 @@
 	"ModelName": "Mẫu xe",
 	"More": "Xem thêm",
 	"Nearby": "Gần đây",
-	"StationNearby": "Điểm sạc gần bạn",
+	"ChargingStationNearby": "Trạm sạc gần bạn",
 	"NewFeedback": "Phản hồi mới",
 	"NewVehicle": "Thêm xe mới",
 	"NoChargingSession": "Chưa có thông tin các phiên sạc!",
@@ -261,5 +261,6 @@
 	"OrderValue": "Giá trị đơn hàng",
 	"PayValue": "Số tiền thanh toán",
 	"UsedMoneyValue": "Số tiền sử dụng",
-	"UsedElectricValue": "Số kWh đã sạc"
+	"UsedElectricValue": "Số kWh đã sạc",
+	"SelectVehicleBrand": "Chọn hãng xe"
 }

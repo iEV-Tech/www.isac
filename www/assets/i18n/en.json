@@ -146,7 +146,7 @@
 	"ModelName": "Model",
 	"More": "More",
 	"Nearby": "Nearby",
-	"StationNearby": "Charging point near you",
+	"ChargingStationNearby": "Charging station near you",
 	"NewFeedback": "New feedback",
 	"NewVehicle": "Add new vehicle",
 	"NoChargingSession": "No charging session!",
@@ -261,5 +261,6 @@
 	"OrderValue": "Value",
 	"PayValue": "Pay",
 	"UsedMoneyValue": "Used",
-	"UsedElectricValue": "Electric used"
+	"UsedElectricValue": "Electric used",
+	"SelectVehicleBrand": "Select vehicle brand"
 }
