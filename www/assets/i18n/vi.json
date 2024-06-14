@@ -262,5 +262,9 @@
 	"PayValue": "Số tiền thanh toán",
 	"UsedMoneyValue": "Số tiền sử dụng",
 	"UsedElectricValue": "Số kWh đã sạc",
-	"SelectVehicleBrand": "Chọn hãng xe"
+	"SelectVehicleBrand": "Chọn hãng xe",
+	"ByLoginAgreeTo": "Khi đăng nhập, bạn đã đồng ý với",
+	"And": "và",
+	"Our": "của chúng tôi",
+	"OperatingRegulations": "Quy chế hoạt động"
 }

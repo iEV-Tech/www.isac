@@ -262,5 +262,9 @@
 	"PayValue": "Pay",
 	"UsedMoneyValue": "Used",
 	"UsedElectricValue": "Electric used",
-	"SelectVehicleBrand": "Select vehicle brand"
+	"SelectVehicleBrand": "Select vehicle brand",
+	"ByLoginAgreeTo": "By logging in, you agree to the",
+	"And": "and",
+	"Our": "our",
+	"OperatingRegulations": "Operating regulations"
 }
