@@ -188,6 +188,7 @@
 	"RefundStatus": "Trạng thái hoàn tiền",
 	"RefundValue": "Số tiền hoàn lại",
 	"RefundYes": "Đã hoàn tiền",
+	"RefundRequested": "Đã yêu cầu hoàn tiền",
 	"Regulations": "Quy định",
 	"Reply": "Trả lời",
 	"Resend": "Gửi lại",
@@ -213,6 +214,7 @@
 	"SignOut": "Đăng xuất",
 	"SignOut_Confirm": "Quý khách có chắc muốn đăng xuất?",
 	"SignUp": "Đăng ký",
+	"Start": "Bắt đầu",
 	"StartCharging": "Bắt đầu phiên sạc",
 	"StartChargingSession": "Bắt đầu phiên sạc",
 	"Station": "Trạm sạc",
@@ -266,5 +268,9 @@
 	"ByLoginAgreeTo": "Khi đăng nhập, bạn đã đồng ý với",
 	"And": "và",
 	"Our": "của chúng tôi",
-	"OperatingRegulations": "Quy chế hoạt động"
+	"OperatingRegulations": "Quy chế hoạt động",
+	"CustomChargingPackage": "Gói sạc tùy chỉnh",
+	"CustomKWhNumber": "Tuỳ chỉnh số kWh",
+	"ConfirmCustomChargingPackage": "Xác nhận gói sạc tùy chỉnh",
+	"Next": "Tiếp tục"
 }

@@ -188,6 +188,7 @@
 	"RefundStatus": "Refund status",
 	"RefundValue": "Refund value",
 	"RefundYes": "Refunded",
+	"RefundRequested": "Refund requested",
 	"Regulations": "Regulations",
 	"Reply": "Reply",
 	"Resend": "Resend",
@@ -213,6 +214,7 @@
 	"SignOut": "Sign out",
 	"SignOut_Confirm": "Are you sure you want to sign out?",
 	"SignUp": "Sign up",
+	"Start": "Start",
 	"StartCharging": "Start charging session",
 	"StartChargingSession": "Start the charging session",
 	"Station": "Station",
@@ -266,5 +268,9 @@
 	"ByLoginAgreeTo": "By logging in, you agree to the",
 	"And": "and",
 	"Our": "our",
-	"OperatingRegulations": "Operating regulations"
+	"OperatingRegulations": "Operating regulations",
+	"CustomChargingPackage": "Custom packages",
+	"CustomKWhNumber": "Customize kWh number",
+	"ConfirmCustomChargingPackage": "Confirm custom charging package",
+	"Next": "Next"
 }
