@@ -272,5 +272,6 @@
 	"CustomChargingPackage": "Gói sạc tùy chỉnh",
 	"CustomKWhNumber": "Tuỳ chỉnh số kWh",
 	"ConfirmCustomChargingPackage": "Xác nhận gói sạc tùy chỉnh",
-	"Next": "Tiếp tục"
+	"Next": "Tiếp tục",
+	"CancelOrder": "Hủy đơn hàng"
 }
