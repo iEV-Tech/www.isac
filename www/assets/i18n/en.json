@@ -273,5 +273,6 @@
 	"CustomKWhNumber": "Customize kWh number",
 	"ConfirmCustomChargingPackage": "Confirm custom charging package",
 	"Next": "Next",
-	"CancelOrder": "Cancel order"
+	"CancelOrder": "Cancel order",
+	"ConfirmCancelOrder": "Cancel old order and continue"
 }
