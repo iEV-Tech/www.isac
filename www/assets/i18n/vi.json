@@ -1,4 +1,15 @@
 {
+	"AgreeToThePersonalInformationSecurityPolicy": "Đồng ý chính sách bảo mật thông tin cá nhân.",
+	"AgreeToThePersonalInformationSecurityPolicy_More": "Thông tin cá nhân của bạn sẽ được dùng cho quá trình sử dụng, hỗ trợ bạn trải nghiệm trên ứng dụng này và cho các mục đích khác được mô tả trong <a href='/privacy-policy' class='d-inline-block'>chính sách bảo mật</a> của chúng tôi.",
+	
+	"TermsAndCondition": "Điều khoản - Điều kiện",
+	"PaymentPolicy": "Chính sách thanh toán",
+	"PrivacyPolicy": "Chính sách quyền riêng tư - Bảo mật",
+	"WarrantyPolicy": "Chính sách bảo hành - Đổi trả",
+	"ComplaintResolutionPolicy": "Chính sách giải quyết khiếu nại",
+	"OrLogInWith": "Hoặc đăng nhập với",
+	"DoNotHaveAnAccount": "Bạn chưa có tài khoản?",
+	"DoYouAlreadyHaveAnAccount": "Bạn đã có tài khoản?",
 	"ChooseFromLibrary": "Chọn từ thư viện",
 	"TakePhoto": "Chụp ảnh",
 	"ChargingReservation": "Đặt chỗ trước",
@@ -151,7 +162,7 @@
 	"InvoiceRequestSentMessage": "Bạn sẽ nhận được hóa đơn qua email đã đăng kí",
 	"Language": "Ngôn ngữ",
 	"LastWeek": "Tuần trước",
-	"Login": "Đăng nhập",
+	"LogIn": "Đăng nhập",
 	"LookupCode": "Mã tra cứu",
 	"LookupLink": "Link tra cứu",
 	"Manual": "Hướng dẫn sử dụng",
@@ -293,5 +304,6 @@
 	"CancelOrder": "Hủy đơn hàng",
 	"ConfirmCancelOrder": "Hủy đơn hàng cũ và tiếp tục",
 	"SendRequest": "Gửi yêu cầu",
-	"DeteleAccount_Confirm": "Xác nhận xóa tài khoản"
+	"DeteleAccount_Confirm": "Xác nhận xóa tài khoản",
+	"EstimateChargeTime": "Thời gian sạc dự kiến"
 }
