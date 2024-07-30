@@ -1,7 +1,9 @@
 {
 	"AgreeToThePersonalInformationSecurityPolicy": "Đồng ý chính sách bảo mật thông tin cá nhân.",
 	"AgreeToThePersonalInformationSecurityPolicy_More": "Thông tin cá nhân của bạn sẽ được dùng cho quá trình sử dụng, hỗ trợ bạn trải nghiệm trên ứng dụng này và cho các mục đích khác được mô tả trong <a href='/privacy-policy' class='d-inline-block'>chính sách bảo mật</a> của chúng tôi.",
-	
+	"Verified": "Đã xác thực",
+	"Verified_MoreInfo": "* Thông tin đã xác thực có thể sử dụng để đăng nhập.",
+	"AccountLinkedTo":"Tài khoản liên kết với",
 	"TermsAndCondition": "Điều khoản - Điều kiện",
 	"PaymentPolicy": "Chính sách thanh toán",
 	"PrivacyPolicy": "Chính sách quyền riêng tư - Bảo mật",
