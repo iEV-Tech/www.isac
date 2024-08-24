@@ -111,16 +111,18 @@
 
                 //renew
                 arr.forEach(function (item) {
-                    markerChargingStations.push(createMarker(item.info, item.pos, item.icon));
+                    markerChargingStations.push(createMarker(item.info, item.pos, item.icon, item));
                 })
             }
 
             //createMarker(info: { id: number, title: string }, pos: { lat: number, lng: number }, icon: { url, width, height })
-            var createMarker = function (info, pos, icon) {
+            var createMarker = function (info, pos, icon, options) {
 
                 var newMarker = new vbd.Marker({
                     map: map,
                     position: new vbd.LatLng(pos.lat, pos.lng),
+                    draggable: options?.draggable ?? false,
+                    crossOnDrag: options?.crossOnDrag ?? false,
                     icon: {
                         url: icon.url,
                         size: new vbd.Size(icon.width, icon.height)
@@ -130,6 +132,14 @@
                 vbd.event.addListener(newMarker, 'click', function () {
                     _postMessage("receive-clickMarker", info);
                 });
+
+                if (options?.draggable) {
+                    vbd.event.addListener(newMarker, 'dragend', function (ev) {
+                        let pos = ev.Me.getPosition();
+                        Object.assign(info, { newPos: { lat: pos.Latitude, lng: pos.Longitude } })
+                        _postMessage("receive-dragendMarker", info);
+                    });
+                }
 
                 return newMarker;
             }
